@@ -10,9 +10,9 @@ const app = require('./app')
     // }
     // //console.log(arr)
     // console.log(arr[0])
-    // for (i = 1; i <= 10; i++) {
-    //     console.log(i);
-    // }
+for (i = 1; i <= 10; i++) {
+    console.log(i);
+}
 console.log(app)
 console.log(app.x)
 console.log(app.y)
