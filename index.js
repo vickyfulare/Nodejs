@@ -10,10 +10,9 @@ const app = require('./app')
     // }
     // //console.log(arr)
     // console.log(arr[0])
-for (i = 1; i <= 10; i++) {
-    console.log(i);
-}
-console.log(app)
-console.log(app.x)
-console.log(app.y)
-console.log(app.z())
+    // 
+const colors = require('colors');
+console.log("Hello".red);
+console.log("Hello".green);
+console.log("Hello".bgBlue);
+console.log("Hello".black);
